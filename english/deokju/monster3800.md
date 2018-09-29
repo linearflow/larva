@@ -13,10 +13,10 @@
  >  PRACTICE4
  >  다음 문장의 밑줄 친 부분을 줄여서 다시 쓰세요.
 
-`2) [He is] at home  `  -> `He is (O)`  `He isn't(X)`
-<br/>**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
-`7) [They are] Korean  `  -> `They're (O)`  `They aren't(X)`
-<br/>**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
+`2) [He is] at home  `  -> `He is (O)`  `He isn't(X)`<br/>
+**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
+`7) [They are] Korean  `  -> `They're (O)`  `They aren't(X)`<br/>
+**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
 
 #### PSS 1-4 5 페이지
 
@@ -50,43 +50,43 @@
 ` A: Isn't she an english teacher?`<br/>
 `   B: Yes, She is.(She is an english teacher`<br/>
 
-`2)`  
-` A: Don't you speak Spanish?`
-` B: [](We speak Spanish)`
+`2)`  <br/>
+` A: Don't you speak Spanish?`<br/>
+` B: [](We speak Spanish)`<br/>
 
-`Yes, We do(O)`
-`Yes, We are.(X)`
+`Yes, We do(O)`<br/>
+`Yes, We are.(X)`<br/>
 **일반 동사나 did, do로가 들어간 의무문은  do, did로 대답을 해야되는데 be 동사로 대답을 함** 
 
-`6)` 
-` A: Did they draw a picture?`
-` B: [](They didn't draw a picture)`
+`6)` <br/>
+` A: Did they draw a picture?`<br/>
+` B: [](They didn't draw a picture)`<br/>
 
-`No, they didn't(O)`
-`No, I'm not(X)`
+`No, they didn't(O)`<br/>
+`No, I'm not(X)`<br/>
 **일반 동사나 did, do로가 들어간 의무문은  do, did로 대답을 해야되는데 be 동사로 대답을 함** 
 
-`8)` 
-` A: Was Cathy free this morning?`
-` B: [](Cathy was free this morning)`
+`8)` <br/>
+` A: Was Cathy free this morning?`<br/>
+` B: [](Cathy was free this morning)`<br/>
 
-`Yes, She is(O)`
-`답을 못씀(X)`
+`Yes, She is(O)`<br/>
+`답을 못씀(X)`<br/>
 **Cathy가 사람이름일거라고 생각을 못함 -_-** 
 
 #### PSS 1-8 11 페이지
 
  >  PRACTICE10
 
-`A: [] do you want milk []juice?`
-`B: [], please`
+`A: [] do you want milk []juice?`<br/>
+`B: [], please`<br/>
 
-0
-`A: [Which] do you want milk [or]juice?`
-`B: [milk], please`
+0<br/>
+`A: [Which] do you want milk [or]juice?`<br/>
+`B: [milk], please`<br/>
 
-X
-`A: [what] do you want milk [or]juice?`
-`B: [milk], please`
+X<br/>
+`A: [what] do you want milk [or]juice?`<br/>
+`B: [milk], please`<br/>
 
 **Which 와 What에 대한 구분이 확실하지 않음.**
