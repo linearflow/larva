@@ -1,10 +1,11 @@
+
 # 중학영문법 3800 요괴 오답 노트
 #### PSS 1-1 2 페이지
 
  >  PRACTICE1 
  >  다음을 인칭대명사(he, she, it, we, you they)로 바꾸어 쓰세요.
 
-`[5]the apples  `  -> `they (O)`  `it(X)`
+`[5]the apples  `  -> `they (O)`  `it(X)`<br/>
 **they가 (그) 사람을 가르키는것으로 착각해서 틀림 they는 그뿐만 아니라 그들이 될 수도 있고 그것들도 될 수가 있음** 
 
 #### PSS 1-3 4 페이지
@@ -13,23 +14,23 @@
  >  다음 문장의 밑줄 친 부분을 줄여서 다시 쓰세요.
 
 `2) [He is] at home  `  -> `He is (O)`  `He isn't(X)`
-**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
+<br/>**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
 `7) [They are] Korean  `  -> `They're (O)`  `They aren't(X)`
-**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
+<br/>**문제를  제대로 안읽어서 부정문으로 만듬 -_-** 
 
 #### PSS 1-4 5 페이지
 
  >  PRACTICE6
  >  다음 문장을 부정문으로 바구어 쓰세요.
 
-`5) We bought a newspaper.  ` 
-`We didn't buy a newspagper(O)`
-`we didn't bought a newspaper(X)`
-**bought의 동사원형이  buy라는걸 몰랐음** 
+`5) We bought a newspaper.  ` <br/>
+`We didn't buy a newspagper(O)`<br/>
+`we didn't bought a newspaper(X)`<br/>
+**bought의 동사원형이  buy라는걸 몰랐음** <br/>
 
-`7) They work very hard.  ` 
-`They don't work very hard.(O)`
-`They doesn't work very hard.(X)`
+`7) They work very hard.  ` <br/>
+`They don't work very hard.(O)`<br/>
+`They doesn't work very hard.(X)`<br/>
 **They가 3인칭 복수형이라는걸 계속 까먹음** 
 
 #### PSS 1-5 7 페이지
@@ -37,17 +38,17 @@
  >  PRACTICE7
  >  다음 문장을 의문문으로 바꾸어 쓰세요.
  
-`5) He took photographs.` 
-`Did he take photographs.(O)`
-`Does he take photographs.(X)`
+`5) He took photographs.` <br/>
+`Did he take photographs.(O)`<br/>
+`Does he take photographs.(X)`<br/>
 **do, does의 과거 형태는 온니 Did인데 헷갈림** 
 
 #### PSS 1-6 8 페이지
 
  >  PRACTICE8
  >  <보기>와 같이 주어진 질문에 대한 알맞은 대답을 빈칸에 쓰세요.
-` A: Isn't she an english teacher?`
-`   B: Yes, She is.(She is an english teacher`
+` A: Isn't she an english teacher?`<br/>
+`   B: Yes, She is.(She is an english teacher`<br/>
 
 `2)`  
 ` A: Don't you speak Spanish?`
