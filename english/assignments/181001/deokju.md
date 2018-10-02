@@ -21,9 +21,18 @@ I have to make money for my life.
 돈을 벌어야 하기 때문에 일을 합니다.
 ex) 무조건 돈을 벌기 위해서가 아니라 다른부분으로 써봅시다.
       회사에 기여가 아닌 돈을 벌어서 무엇을 하지, 아니면 회사 업무가 무엇이 도움이 되는지
+=====================================================================================================
+2018.10.02 내용추가(덕주)
+I need money.I have to give to money to my mom because living expenses
+(나는 돈이 필요합니다. 어머니에게 생활비를 드려야 해요.)
+
 
 6. Do you get on well with your colleagues?
+(완전히 사무적인 관계입니다.)
 7. What responsibilities do you have at work?
+In company, my role is develop android app and web application.
+(나는 회사에서 나의 역할은 안드로이드 앱 개발과 웹 어플리케이션 개발 입니다.)
+=====================================================================================================
 8. If you had the chance, would you change your job?
 9. Do you plan to continue with your job in the future
 I am working now because of money.
